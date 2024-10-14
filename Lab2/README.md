@@ -1,0 +1,2 @@
+# Lab 2
+My third C lab. This lab includes many different functions to answer different questions in `Questions.c` as well as their respective test cases in `testCases.c`. Copied from COE2SH4-F2024 on GitHub Classroom.
