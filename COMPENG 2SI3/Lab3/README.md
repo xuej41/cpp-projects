@@ -1,4 +1,4 @@
-Lab3 - Stack and Queue
+# Lab3 - Stack and Queue
 
 The lab report for this lab can be found as `Lab3_Report.pdf`. It answers the questions outlined in the lab manual.
 
