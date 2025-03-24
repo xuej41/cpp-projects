@@ -1,4 +1,4 @@
-# Lab 1
+# Lab 1 - Asymptotic and OOD Analysis
 
 This lab involved asymptotic and OOD analysis with UML diagrams.
 
